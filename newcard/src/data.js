@@ -1,20 +1,19 @@
 const data = [
   {
     id: 1,
-    name: "Card One",
-    info: "This is the first card."
+    name: "Cricket",
+    info: "Most popular sport in India",
   },
   {
     id: 2,
-    name: "Card Two",
-    info: "This is the second card."
+    name: "Football",
+    info: "World's most played sport",
   },
   {
     id: 3,
-    name: "Card Three",
-    info: "This is the third card."
-  }
+    name: "Basketball",
+    info: "Fast-paced game",
+  },
 ];
 
 export default data;
-
